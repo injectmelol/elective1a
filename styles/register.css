@@ -1,0 +1,42 @@
+body
+{
+     margin:0;
+     min-width: 800px;
+     min-height: 500px;
+}
+input[type=text],input[type=password]
+{
+     display: block;
+     margin : 0 auto;
+     width: 300px;
+     height: 25px;
+     padding: 1px 20px;
+}
+input[type=submit]
+{
+	display: block;
+     margin : 0 auto;
+     width: 345px;
+     height: 30px;
+     padding: 1px 20px;
+     background-color: black;
+     color:white;
+     border: 0;
+}
+article h1
+{
+	text-align: center;
+}
+header h1
+{
+	text-align: left;
+	margin-left: 50px;
+}
+a
+{
+	color:black;
+}
+p
+{
+	text-align: center;
+}
